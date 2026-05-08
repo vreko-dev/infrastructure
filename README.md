@@ -1,18 +1,20 @@
-# @snapback-oss/infrastructure
+# ⚠️ Package Deprecated
 
-[![npm version](https://badge.fury.io/js/@snapback-oss%2Finfrastructure.svg)](https://www.npmjs.com/package/@snapback-oss/infrastructure)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+The `@snapback-oss/infrastructure` package has been deprecated. Please visit [vreko.dev](https://vreko.dev) for information about the Vreko platform.
 
-> Generic logging, metrics, and tracing utilities for Node.js applications
+## Migration Information
 
-Part of the [SnapBack](https://snapback.dev) open-core ecosystem. This package provides production-ready infrastructure utilities that work with any Node.js application.
+This package is no longer maintained. If you were using this package, please update your dependencies accordingly.
 
-## Installation
+## What This Means
 
-```bash
-npm install @snapback-oss/infrastructure
-# or pnpm add @snapback-oss/infrastructure
-```
+- This npm package has been deprecated
+- No further updates will be made to this codebase
+- This repository is kept for historical reference
+
+## License
+
+This repository remains available under the Apache-2.0 license for reference purposes.
 
 ## Features
 
